@@ -13,5 +13,6 @@ Users can securely buy, sell and trade a portfolio of digital currencies, includ
 Who are their competitors?  
 ---  
 [Ethx.co](https://craft.co/ethx-co)  
-[WeAlwin](https://craft.co/wealwin-technologies)
-[CoinDCX](https://craft.co/coindcx)
+[WeAlwin](https://craft.co/wealwin-technologies)  
+[CoinDCX](https://craft.co/coindcx)  
+  
